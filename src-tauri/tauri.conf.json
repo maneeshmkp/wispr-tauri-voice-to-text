@@ -31,7 +31,10 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "com.wispr.app"
+      "identifier": "com.wispr.app",
+      "icon": [
+        "icons/icon.ico"
+      ]
     }
   }
 }
